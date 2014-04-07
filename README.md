@@ -1,4 +1,6 @@
-RoboFEI-HT--Finished-codes
-==========================
+RoboFEI-HT
+==========
 
-RoboFEI-HT Public code
+Humanoid soccer team from University Center of FEI (Brazil).
+
+Repository of software development for the robots Milton, Darwin and Newton.
